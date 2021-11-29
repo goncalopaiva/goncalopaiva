@@ -7,7 +7,7 @@
 
 🌱 So far I've learned C, Java, PHP, HTML+CSS, JavaScript, Assembly, SQLite, PostgreSQL and jQuery.
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/goncalopaiva00/)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/goncalopaiva00/), [Twitter](https://www.twitter.com/goncalopaiva10/).
 
 
 
