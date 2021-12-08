@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-🔭 I'm *Gonçalo*, a graduate student in **Software Engineering** at **Fernando Pessoa University** (Porto, Portugal 🇵🇹).
+🔭 I'm *Gonçalo*, a graduate student in **Computer Engineering** at **Fernando Pessoa University** (Porto, Portugal 🇵🇹).
 
 🌱 So far I've learned C, Java, PHP, HTML+CSS, JavaScript, Assembly, SQLite, PostgreSQL and jQuery.
 
