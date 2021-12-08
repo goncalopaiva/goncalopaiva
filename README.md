@@ -5,7 +5,7 @@
 
 🔭 I'm *Gonçalo*, a **Computer Engineering** student at **Fernando Pessoa University** (Porto, Portugal 🇵🇹).
 
-🌱 So far I've learned C, Java, PHP, HTML+CSS, JavaScript, Assembly, SQLite, PostgreSQL and jQuery.
+🌱 So far I've learned C, Java, PHP, Laravel, SQLite, HTML, CSS, JavaScript, jQuery and PostgreSQL.
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/goncalopaiva00/), [Twitter](https://www.twitter.com/goncalopaiva10/).
 
